@@ -1,0 +1,23 @@
+{
+  "name": "binance-spot",
+  "version": "1.0.0",
+  "description": "Bot for Binance Plataform developed during Imersão BotDev 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/antoniosmgatto/binance-spot.git"
+  },
+  "keywords": [
+    "binance",
+    "bot"
+  ],
+  "author": "Antonio Gatto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antoniosmgatto/binance-spot/issues"
+  },
+  "homepage": "https://github.com/antoniosmgatto/binance-spot#readme"
+}
